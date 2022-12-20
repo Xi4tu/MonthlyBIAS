@@ -111,7 +111,7 @@ def app():
     # Mostramos el resultado en pantalla
     print("-----------------------------------------------------------------------")
     print(Fore.RED + f'Bearish: ' + f'{prob_negatives:.2%}' + Style.RESET_ALL)
-    print(f'Media de pips a favor del BIAS (Apertura - Máximo): ' + Fore.LIGHTBLUE_EX + f'{meanPipsNegatives:.0f}\n' + Style.RESET_ALL)
+    print(f'Media de pips a favor del BIAS (Apertura - Mínimo): ' + Fore.LIGHTBLUE_EX + f'{meanPipsNegatives:.0f}\n' + Style.RESET_ALL)
     print(Fore.GREEN + f'Bullish: ' +  f'{prob_positives:.2%}' + Style.RESET_ALL)
     print(f'Media de pips a favor del BIAS (Máximo - Apertura): ' + Fore.LIGHTBLUE_EX + f'{meanPipsPositives:.0f}' + Style.RESET_ALL)
     print("-----------------------------------------------------------------------")
