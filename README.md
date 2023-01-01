@@ -7,5 +7,5 @@ seleccionas el instrumento (XAUUSD, S&P, EURUUSD), introduces el mes en formato 
 El programa te va a mostrar la probabilidad de que el precio sea bullish y bearish y cuantos pips suele mover de media desde la apertura del mes hasta el máximo o el mínimo
 dependiendo de si es bullish o bearish.
 
-![image](https://user-images.githubusercontent.com/59847094/206530213-69d94c43-1be6-46e0-8c80-411eb27088dd.png)
+![image](https://user-images.githubusercontent.com/59847094/208693833-2715b973-1728-46b0-9dfa-1f00d1a5c553.png)
 
